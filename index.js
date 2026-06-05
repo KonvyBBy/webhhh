@@ -3,7 +3,7 @@ import express from "express";
 const app = express();
 app.use(express.json());
 
-const DISCORD_WEBHOOK = "PASTE_DISCORD_WEBHOOK_HERE";
+const DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1512388112045834290/e9-oa3K280eQmjqNx3GqC35_24TuGqDByr8nd6JHhxx5h48yCup-EsfKMpwZ3z85nIcf";
 
 app.post("/shopify-paid", async (req, res) => {
   const order = req.body;
