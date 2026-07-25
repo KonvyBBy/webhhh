@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-background: #0d1117;
+  --color-foreground: #c9d1d9;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  --font-mono: "SF Mono", Monaco, "Cascadia Code", "Consolas", monospace;
+}
+
+body {
+  background: #0d1117;
+  color: #c9d1d9;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+
+::-webkit-scrollbar {
+  width: 8px; height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #0d1117;
+}
+::-webkit-scrollbar-thumb {
+  background: #30363d;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #58a6ff;
+}
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #30363d #0d1117;
+}
+
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Custom scrollbar for skin check */
+.skin-scroll {
+  scrollbar-width: thin;
+  scrollbar-color: #30363d #0d1117;
+}
+.skin-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+.skin-scroll::-webkit-scrollbar-track {
+  background: #0d1117;
+  border-radius: 3px;
+}
+.skin-scroll::-webkit-scrollbar-thumb {
+  background: #30363d;
+  border-radius: 3px;
+}
+.skin-scroll::-webkit-scrollbar-thumb:hover {
+  background: #58a6ff;
+}

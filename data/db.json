@@ -1,0 +1,144 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "username": "Konvy",
+      "password": "$2b$10$igqujMLgxgEXdFYA9dNXhO6zx7qUsP5PesUEicCLvLdi8Kp8jYHNa",
+      "email": "Konvyvip@gmail.com",
+      "display_name": "Konvy",
+      "avatar_url": "",
+      "balance": 2,
+      "role": "admin",
+      "created_at": "2026-07-15T02:47:00.153Z"
+    },
+    {
+      "id": 3,
+      "username": "Konvyy",
+      "password": "$2b$10$Zhxv.2pDISF5YBNgU5mnK.85OqsJfDmawNoEoTzM8KvKb48VrUa.a",
+      "email": "Konvyvip@gmail.com",
+      "display_name": "Konvyy",
+      "avatar_url": "",
+      "balance": 0,
+      "role": "deleted",
+      "created_at": "2026-07-15T14:14:10.422Z"
+    },
+    {
+      "id": 4,
+      "username": "test1234",
+      "password": "$2b$10$dwk6WPpy6MNQoZ5Kl4dQHugQrIVRAZD6dxVg17rvcAtSc80YgvNtC",
+      "email": "Konvyvipp@gmail.com",
+      "display_name": "test1234",
+      "avatar_url": "/uploads/avatar-4-1784127138703.PNG",
+      "balance": 1,
+      "role": "user",
+      "created_at": "2026-07-15T14:51:15.346Z"
+    },
+    {
+      "id": 5,
+      "username": "discord_14219097",
+      "password": "$2b$10$iaArLULe8X9UxdKX74uogOkRZs7bivm8wjbsA2gVBvznwuEt/nL/K",
+      "email": "",
+      "display_name": "Discord User",
+      "avatar_url": "",
+      "balance": 0,
+      "role": "admin",
+      "discord_id": "1421909779583996025",
+      "created_at": "2026-07-25T20:54:41.630Z"
+    }
+  ],
+  "orders": [],
+  "balance_logs": [
+    {
+      "id": 1,
+      "user_id": 2,
+      "amount": 1,
+      "type": "deposit",
+      "note": "Admin adjustment",
+      "created_at": "2026-07-15T02:54:06.724Z"
+    },
+    {
+      "id": 2,
+      "user_id": 2,
+      "amount": 1,
+      "type": "deposit",
+      "note": "Admin adjustment",
+      "created_at": "2026-07-15T02:54:15.480Z"
+    },
+    {
+      "id": 3,
+      "user_id": 4,
+      "amount": 1,
+      "type": "admin",
+      "note": "Added 1",
+      "created_at": "2026-07-15T14:51:43.572Z"
+    }
+  ],
+  "nextId": {
+    "users": 6,
+    "orders": 1,
+    "balance_logs": 4,
+    "plans": 5,
+    "user_plans": 1
+  },
+  "settings": {
+    "markup": 2.3
+  },
+  "plans": [
+    {
+      "id": 1,
+      "name": "Basic",
+      "duration_days": 30,
+      "discount_percent": 15,
+      "description": "15% off purchases for 30 days",
+      "price": 15
+    },
+    {
+      "id": 2,
+      "name": "Silver",
+      "duration_days": 30,
+      "discount_percent": 25,
+      "description": "25% off purchases for 30 days",
+      "price": 25
+    },
+    {
+      "id": 3,
+      "name": "Gold",
+      "duration_days": 30,
+      "discount_percent": 40,
+      "description": "40% off purchases for 30 days",
+      "price": 45
+    },
+    {
+      "id": 4,
+      "name": "VIP",
+      "duration_days": 30,
+      "discount_percent": 55,
+      "description": "55% off purchases for 30 days",
+      "price": 75
+    }
+  ],
+  "user_plans": [],
+  "login_codes": [
+    {
+      "code": "DICM57",
+      "discord_id": "test123",
+      "created_at": "2026-07-25T20:48:38.025Z",
+      "used": false
+    },
+    {
+      "code": "RDQIJM",
+      "discord_id": "1421909779583996025",
+      "created_at": "2026-07-25T20:54:34.853Z",
+      "used": true
+    },
+    {
+      "code": "M1UB4S",
+      "discord_id": "1421909779583996025",
+      "username": "konvyvip",
+      "display_name": "! Konvy | Full Access Seller",
+      "avatar_url": "https://cdn.discordapp.com/avatars/1421909779583996025/6bb7397d1fa2e36a586263a6e15e26ad.webp?size=128",
+      "created_at": "2026-07-25T21:37:09.613Z",
+      "used": false
+    }
+  ]
+}

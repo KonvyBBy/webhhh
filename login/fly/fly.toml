@@ -1,0 +1,25 @@
+# fly.toml app configuration file generated for konvy-panel-bot on 2026-07-25T16:48:57-05:00
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
+app = 'konvy-panel-bot'
+primary_region = 'iad'
+
+[build]
+[env]
+  DISCORD_BOT_SECRET = 'change-me-bot-secret'
+  OWNER_ID = '1421909779583996025'
+  SITE_URL = 'https://your-app.onrender.com'
+
+[http_service]
+  internal_port = 3000
+  auto_stop_machines = 'off'
+  auto_start_machines = true
+  min_machines_running = 1
+
+[[vm]]
+  memory = '1gb'
+  cpu_kind = 'shared'
+  cpus = 1
+  memory_mb = 1024

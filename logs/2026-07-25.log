@@ -1,0 +1,352 @@
+[2026-07-25T19:58:31.666Z] [API] GET /fortnite -> 200 | {"duration":"1690ms"}
+[2026-07-25T19:59:43.748Z] [INFO] User logged in: Konvy
+[2026-07-25T19:59:46.469Z] [API] GET /fortnite -> 200 | {"duration":"2501ms"}
+[2026-07-25T20:10:11.258Z] [API] GET /riot -> 200 | {"duration":"1215ms"}
+[2026-07-25T20:10:13.918Z] [API] GET /fortnite -> 200 | {"duration":"917ms"}
+[2026-07-25T20:10:14.245Z] [API] GET /fortnite -> 200 | {"duration":"1223ms"}
+[2026-07-25T20:10:20.974Z] [API] GET /fortnite -> 200 | {"duration":"1357ms"}
+[2026-07-25T20:10:31.241Z] [API] GET /247566818 -> 200 | {"duration":"646ms"}
+[2026-07-25T20:11:47.554Z] [API] GET /247566818 -> 200 | {"duration":"7ms"}
+[2026-07-25T20:12:05.570Z] [API] GET /247566818 -> 200 | {"duration":"6ms"}
+[2026-07-25T20:13:49.765Z] [API] GET /fortnite -> 200 | {"duration":"1100ms"}
+[2026-07-25T20:14:00.698Z] [API] GET /fortnite -> 200 | {"duration":"1032ms"}
+[2026-07-25T20:14:09.439Z] [API] GET /fortnite -> 200 | {"duration":"1252ms"}
+[2026-07-25T20:14:12.646Z] [API] GET /249046680 -> 200 | {"duration":"416ms"}
+[2026-07-25T20:14:44.740Z] [API] GET /249046680 -> 200 | {"duration":"7ms"}
+[2026-07-25T20:15:26.679Z] [API] GET /249046680 -> 200 | {"duration":"4ms"}
+[2026-07-25T20:17:34.571Z] [API] GET /249046680 -> 200 | {"duration":"776ms"}
+[2026-07-25T20:18:19.924Z] [API] GET /249046680 -> 200 | {"duration":"794ms"}
+[2026-07-25T20:20:03.399Z] [API] GET /fortnite -> 200 | {"duration":"1495ms"}
+[2026-07-25T20:20:03.448Z] [API] GET /fortnite -> 200 | {"duration":"1492ms"}
+[2026-07-25T20:22:33.558Z] [API] GET /fortnite -> 200 | {"duration":"2ms"}
+[2026-07-25T20:22:38.715Z] [API] GET /fortnite -> 200 | {"duration":"3ms"}
+[2026-07-25T20:22:43.946Z] [API] GET /fortnite -> 200 | {"duration":"3ms"}
+[2026-07-25T20:22:49.643Z] [API] GET /fortnite -> 200 | {"duration":"3ms"}
+[2026-07-25T20:22:55.246Z] [API] GET /fortnite -> 200 | {"duration":"3ms"}
+[2026-07-25T20:23:11.277Z] [API] GET /fortnite -> 200 | {"duration":"3ms"}
+[2026-07-25T20:23:14.716Z] [API] GET /fortnite -> 200 | {"duration":"2ms"}
+[2026-07-25T20:23:20.624Z] [API] GET /fortnite -> 200 | {"duration":"3ms"}
+[2026-07-25T20:23:27.829Z] [API] GET /fortnite -> 200 | {"duration":"2ms"}
+[2026-07-25T20:23:36.984Z] [API] GET /fortnite -> 200 | {"duration":"4ms"}
+[2026-07-25T20:23:54.718Z] [API] GET /fortnite -> 200 | {"duration":"3ms"}
+[2026-07-25T20:24:00.896Z] [API] GET /fortnite -> 200 | {"duration":"3ms"}
+[2026-07-25T20:24:45.343Z] [API] GET /fortnite -> 200 | {"duration":"3ms"}
+[2026-07-25T20:25:18.643Z] [API] GET /fortnite -> 200 | {"duration":"1573ms"}
+[2026-07-25T20:28:34.949Z] [API] GET /fortnite -> 200 | {"duration":"1030ms"}
+[2026-07-25T20:28:34.982Z] [API] GET /fortnite -> 200 | {"duration":"1023ms"}
+[2026-07-25T20:30:31.233Z] [API] GET /fortnite -> 200 | {"duration":"1162ms"}
+[2026-07-25T20:38:23.822Z] [API] GET /fortnite -> 200 | {"duration":"2093ms"}
+[2026-07-25T20:54:43.609Z] [API] GET /fortnite -> 200 | {"duration":"1360ms"}
+[2026-07-25T20:55:22.081Z] [API] GET /fortnite -> 200 | {"duration":"1078ms"}
+[2026-07-25T20:55:27.654Z] [API] GET /fortnite -> 200 | {"duration":"3ms"}
+[2026-07-25T20:55:41.611Z] [API] GET /fortnite -> 200 | {"duration":"3ms"}
+[2026-07-25T20:55:48.724Z] [API] GET /fortnite -> 200 | {"duration":"2ms"}
+[2026-07-25T20:55:54.737Z] [API] GET /fortnite -> 200 | {"duration":"3ms"}
+[2026-07-25T21:00:42.039Z] [API] GET /fortnite -> 200 | {"duration":"2455ms"}
+[2026-07-25T21:00:42.423Z] [API] GET /fortnite -> 200 | {"duration":"2807ms"}
+[2026-07-25T21:00:43.177Z] [API] GET /fortnite -> 200 | {"duration":"2615ms"}
+[2026-07-25T21:06:18.356Z] [API] GET /fortnite -> 503 | {"duration":"587ms"}
+[2026-07-25T21:06:18.356Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT API error: [\"Технические работы // Technical works. <a href=\\\"https://t.me/lolz_guru\\\">https://t.me/lolz_guru</a>\"]"}
+[2026-07-25T21:06:18.363Z] [API] GET /fortnite -> 503 | {"duration":"570ms"}
+[2026-07-25T21:06:18.363Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT API error: [\"Технические работы // Technical works. <a href=\\\"https://t.me/lolz_guru\\\">https://t.me/lolz_guru</a>\"]"}
+[2026-07-25T21:06:21.890Z] [API] GET /fortnite -> 503 | {"duration":"198ms"}
+[2026-07-25T21:06:21.890Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT API error: [\"Технические работы // Technical works. <a href=\\\"https://t.me/lolz_guru\\\">https://t.me/lolz_guru</a>\"]"}
+[2026-07-25T21:06:21.922Z] [API] GET /fortnite -> 503 | {"duration":"210ms"}
+[2026-07-25T21:06:21.923Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT API error: [\"Технические работы // Technical works. <a href=\\\"https://t.me/lolz_guru\\\">https://t.me/lolz_guru</a>\"]"}
+[2026-07-25T21:06:23.073Z] [API] GET /fortnite -> 503 | {"duration":"208ms"}
+[2026-07-25T21:06:23.073Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT API error: [\"Технические работы // Technical works. <a href=\\\"https://t.me/lolz_guru\\\">https://t.me/lolz_guru</a>\"]"}
+[2026-07-25T21:07:08.124Z] [API] GET /fortnite -> 200 | {"duration":"3ms"}
+[2026-07-25T21:11:56.151Z] [API] GET /fortnite -> 503 | {"duration":"453ms"}
+[2026-07-25T21:11:56.151Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:11:58.109Z] [API] GET /fortnite -> 503 | {"duration":"206ms"}
+[2026-07-25T21:11:58.109Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:11:58.354Z] [API] GET /fortnite -> 503 | {"duration":"430ms"}
+[2026-07-25T21:11:58.355Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:11:58.960Z] [API] GET /fortnite -> 503 | {"duration":"200ms"}
+[2026-07-25T21:11:58.961Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:12:38.541Z] [API] GET /fortnite -> 503 | {"duration":"445ms"}
+[2026-07-25T21:12:38.542Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:12:38.586Z] [API] GET /fortnite -> 503 | {"duration":"477ms"}
+[2026-07-25T21:12:38.587Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:12:38.908Z] [API] GET /fortnite -> 503 | {"duration":"241ms"}
+[2026-07-25T21:12:38.909Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:12:49.442Z] [API] GET /fortnite -> 503 | {"duration":"447ms"}
+[2026-07-25T21:12:49.443Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:12:49.452Z] [API] GET /fortnite -> 503 | {"duration":"435ms"}
+[2026-07-25T21:12:49.452Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:12:49.766Z] [API] GET /fortnite -> 503 | {"duration":"215ms"}
+[2026-07-25T21:12:49.766Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:36.629Z] [API] GET /fortnite -> 503 | {"duration":"553ms"}
+[2026-07-25T21:13:36.629Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:36.642Z] [API] GET /fortnite -> 503 | {"duration":"463ms"}
+[2026-07-25T21:13:36.642Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:36.651Z] [API] GET /fortnite -> 503 | {"duration":"529ms"}
+[2026-07-25T21:13:36.651Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:36.668Z] [API] GET /fortnite -> 503 | {"duration":"515ms"}
+[2026-07-25T21:13:36.669Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:36.779Z] [API] GET /fortnite -> 503 | {"duration":"480ms"}
+[2026-07-25T21:13:36.779Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:36.789Z] [API] GET /fortnite -> 503 | {"duration":"482ms"}
+[2026-07-25T21:13:36.790Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:36.793Z] [API] GET /fortnite -> 503 | {"duration":"488ms"}
+[2026-07-25T21:13:36.794Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:36.796Z] [API] GET /fortnite -> 503 | {"duration":"495ms"}
+[2026-07-25T21:13:36.796Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:36.868Z] [API] GET /fortnite -> 503 | {"duration":"456ms"}
+[2026-07-25T21:13:36.869Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:36.878Z] [API] GET /fortnite -> 503 | {"duration":"471ms"}
+[2026-07-25T21:13:36.878Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:36.897Z] [API] GET /fortnite -> 503 | {"duration":"481ms"}
+[2026-07-25T21:13:36.898Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:36.905Z] [API] GET /fortnite -> 503 | {"duration":"493ms"}
+[2026-07-25T21:13:36.905Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:37.038Z] [API] GET /fortnite -> 503 | {"duration":"308ms"}
+[2026-07-25T21:13:37.038Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:37.046Z] [API] GET /fortnite -> 503 | {"duration":"304ms"}
+[2026-07-25T21:13:37.046Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:37.048Z] [API] GET /fortnite -> 503 | {"duration":"270ms"}
+[2026-07-25T21:13:37.048Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:37.134Z] [API] GET /fortnite -> 503 | {"duration":"239ms"}
+[2026-07-25T21:13:37.134Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:37.227Z] [API] GET /fortnite -> 503 | {"duration":"231ms"}
+[2026-07-25T21:13:37.227Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:37.249Z] [API] GET /fortnite -> 503 | {"duration":"219ms"}
+[2026-07-25T21:13:37.249Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:37.257Z] [API] GET /fortnite -> 503 | {"duration":"220ms"}
+[2026-07-25T21:13:37.257Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:37.260Z] [API] GET /fortnite -> 503 | {"duration":"224ms"}
+[2026-07-25T21:13:37.260Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:37.369Z] [API] GET /fortnite -> 503 | {"duration":"265ms"}
+[2026-07-25T21:13:37.369Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:37.371Z] [API] GET /fortnite -> 503 | {"duration":"231ms"}
+[2026-07-25T21:13:37.371Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:37.415Z] [API] GET /fortnite -> 503 | {"duration":"236ms"}
+[2026-07-25T21:13:37.415Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:37.542Z] [API] GET /fortnite -> 503 | {"duration":"260ms"}
+[2026-07-25T21:13:37.542Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:37.552Z] [API] GET /fortnite -> 503 | {"duration":"255ms"}
+[2026-07-25T21:13:37.552Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:37.615Z] [API] GET /fortnite -> 503 | {"duration":"236ms"}
+[2026-07-25T21:13:37.615Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:37.623Z] [API] GET /fortnite -> 503 | {"duration":"263ms"}
+[2026-07-25T21:13:37.623Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:37.661Z] [API] GET /fortnite -> 503 | {"duration":"247ms"}
+[2026-07-25T21:13:37.661Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:37.674Z] [API] GET /fortnite -> 503 | {"duration":"217ms"}
+[2026-07-25T21:13:37.675Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:37.752Z] [API] GET /fortnite -> 503 | {"duration":"239ms"}
+[2026-07-25T21:13:37.753Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:37.776Z] [API] GET /fortnite -> 503 | {"duration":"220ms"}
+[2026-07-25T21:13:37.776Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:37.808Z] [API] GET /fortnite -> 503 | {"duration":"235ms"}
+[2026-07-25T21:13:37.808Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:37.851Z] [API] GET /fortnite -> 503 | {"duration":"236ms"}
+[2026-07-25T21:13:37.851Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:37.853Z] [API] GET /fortnite -> 503 | {"duration":"235ms"}
+[2026-07-25T21:13:37.853Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:37.917Z] [API] GET /fortnite -> 503 | {"duration":"236ms"}
+[2026-07-25T21:13:37.917Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:37.957Z] [API] GET /fortnite -> 503 | {"duration":"215ms"}
+[2026-07-25T21:13:37.957Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:38.037Z] [API] GET /fortnite -> 503 | {"duration":"270ms"}
+[2026-07-25T21:13:38.038Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:38.044Z] [API] GET /fortnite -> 503 | {"duration":"230ms"}
+[2026-07-25T21:13:38.044Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:38.121Z] [API] GET /fortnite -> 503 | {"duration":"265ms"}
+[2026-07-25T21:13:38.121Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:38.129Z] [API] GET /fortnite -> 503 | {"duration":"238ms"}
+[2026-07-25T21:13:38.129Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:38.177Z] [API] GET /fortnite -> 503 | {"duration":"250ms"}
+[2026-07-25T21:13:38.177Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:38.190Z] [API] GET /fortnite -> 503 | {"duration":"223ms"}
+[2026-07-25T21:13:38.190Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:38.238Z] [API] GET /fortnite -> 503 | {"duration":"239ms"}
+[2026-07-25T21:13:38.238Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:38.275Z] [API] GET /fortnite -> 503 | {"duration":"214ms"}
+[2026-07-25T21:13:38.275Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:38.386Z] [API] GET /fortnite -> 503 | {"duration":"241ms"}
+[2026-07-25T21:13:38.387Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:38.389Z] [API] GET /fortnite -> 503 | {"duration":"240ms"}
+[2026-07-25T21:13:38.389Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:38.435Z] [API] GET /fortnite -> 503 | {"duration":"227ms"}
+[2026-07-25T21:13:38.435Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:38.472Z] [API] GET /fortnite -> 503 | {"duration":"234ms"}
+[2026-07-25T21:13:38.472Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:38.546Z] [API] GET /fortnite -> 503 | {"duration":"241ms"}
+[2026-07-25T21:13:38.547Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:38.553Z] [API] GET /fortnite -> 503 | {"duration":"235ms"}
+[2026-07-25T21:13:38.553Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:38.626Z] [API] GET /fortnite -> 503 | {"duration":"262ms"}
+[2026-07-25T21:13:38.626Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:38.669Z] [API] GET /fortnite -> 503 | {"duration":"243ms"}
+[2026-07-25T21:13:38.669Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:38.719Z] [API] GET /fortnite -> 503 | {"duration":"243ms"}
+[2026-07-25T21:13:38.720Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:38.731Z] [API] GET /fortnite -> 503 | {"duration":"248ms"}
+[2026-07-25T21:13:38.731Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:38.738Z] [API] GET /fortnite -> 503 | {"duration":"222ms"}
+[2026-07-25T21:13:38.738Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:38.810Z] [API] GET /fortnite -> 503 | {"duration":"259ms"}
+[2026-07-25T21:13:38.811Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:38.879Z] [API] GET /fortnite -> 503 | {"duration":"253ms"}
+[2026-07-25T21:13:38.879Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:38.881Z] [API] GET /fortnite -> 503 | {"duration":"253ms"}
+[2026-07-25T21:13:38.881Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:38.943Z] [API] GET /fortnite -> 503 | {"duration":"246ms"}
+[2026-07-25T21:13:38.943Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:38.982Z] [API] GET /fortnite -> 503 | {"duration":"255ms"}
+[2026-07-25T21:13:38.983Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:38.991Z] [API] GET /fortnite -> 503 | {"duration":"210ms"}
+[2026-07-25T21:13:38.991Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:39.034Z] [API] GET /fortnite -> 503 | {"duration":"226ms"}
+[2026-07-25T21:13:39.034Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:39.148Z] [API] GET /fortnite -> 503 | {"duration":"256ms"}
+[2026-07-25T21:13:39.149Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:39.150Z] [API] GET /fortnite -> 503 | {"duration":"227ms"}
+[2026-07-25T21:13:39.150Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:39.162Z] [API] GET /fortnite -> 503 | {"duration":"235ms"}
+[2026-07-25T21:13:39.163Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:39.169Z] [API] GET /fortnite -> 503 | {"duration":"216ms"}
+[2026-07-25T21:13:39.169Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:39.248Z] [API] GET /fortnite -> 503 | {"duration":"264ms"}
+[2026-07-25T21:13:39.248Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:39.252Z] [API] GET /fortnite -> 503 | {"duration":"217ms"}
+[2026-07-25T21:13:39.253Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:39.306Z] [API] GET /fortnite -> 503 | {"duration":"209ms"}
+[2026-07-25T21:13:39.306Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:39.321Z] [API] GET /fortnite -> 503 | {"duration":"219ms"}
+[2026-07-25T21:13:39.321Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:39.543Z] [API] GET /fortnite -> 503 | {"duration":"342ms"}
+[2026-07-25T21:13:39.543Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:39.545Z] [API] GET /fortnite -> 503 | {"duration":"269ms"}
+[2026-07-25T21:13:39.545Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:39.556Z] [API] GET /fortnite -> 503 | {"duration":"307ms"}
+[2026-07-25T21:13:39.557Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:39.559Z] [API] GET /fortnite -> 503 | {"duration":"245ms"}
+[2026-07-25T21:13:39.560Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:39.714Z] [API] GET /fortnite -> 503 | {"duration":"238ms"}
+[2026-07-25T21:13:39.714Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:39.716Z] [API] GET /fortnite -> 503 | {"duration":"236ms"}
+[2026-07-25T21:13:39.716Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:39.760Z] [API] GET /fortnite -> 503 | {"duration":"226ms"}
+[2026-07-25T21:13:39.760Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:39.821Z] [API] GET /fortnite -> 503 | {"duration":"217ms"}
+[2026-07-25T21:13:39.822Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:39.870Z] [API] GET /fortnite -> 503 | {"duration":"235ms"}
+[2026-07-25T21:13:39.871Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:39.873Z] [API] GET /fortnite -> 503 | {"duration":"238ms"}
+[2026-07-25T21:13:39.873Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:39.919Z] [API] GET /fortnite -> 503 | {"duration":"232ms"}
+[2026-07-25T21:13:39.919Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:39.930Z] [API] GET /fortnite -> 503 | {"duration":"204ms"}
+[2026-07-25T21:13:39.930Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:40.075Z] [API] GET /fortnite -> 503 | {"duration":"244ms"}
+[2026-07-25T21:13:40.075Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:40.078Z] [API] GET /fortnite -> 503 | {"duration":"251ms"}
+[2026-07-25T21:13:40.078Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:40.182Z] [API] GET /fortnite -> 503 | {"duration":"225ms"}
+[2026-07-25T21:13:40.183Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:40.220Z] [API] GET /fortnite -> 503 | {"duration":"284ms"}
+[2026-07-25T21:13:40.220Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:40.274Z] [API] GET /fortnite -> 503 | {"duration":"267ms"}
+[2026-07-25T21:13:40.275Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:40.278Z] [API] GET /fortnite -> 503 | {"duration":"267ms"}
+[2026-07-25T21:13:40.278Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:40.324Z] [API] GET /fortnite -> 503 | {"duration":"246ms"}
+[2026-07-25T21:13:40.325Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:40.362Z] [API] GET /fortnite -> 503 | {"duration":"266ms"}
+[2026-07-25T21:13:40.362Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:40.468Z] [API] GET /fortnite -> 503 | {"duration":"262ms"}
+[2026-07-25T21:13:40.469Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:40.511Z] [API] GET /fortnite -> 503 | {"duration":"208ms"}
+[2026-07-25T21:13:40.511Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:40.575Z] [API] GET /fortnite -> 503 | {"duration":"246ms"}
+[2026-07-25T21:13:40.575Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:40.663Z] [API] GET /fortnite -> 503 | {"duration":"463ms"}
+[2026-07-25T21:13:40.664Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:40.673Z] [API] GET /fortnite -> 503 | {"duration":"221ms"}
+[2026-07-25T21:13:40.674Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:40.676Z] [API] GET /fortnite -> 503 | {"duration":"230ms"}
+[2026-07-25T21:13:40.676Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:40.726Z] [API] GET /fortnite -> 503 | {"duration":"218ms"}
+[2026-07-25T21:13:40.726Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:40.775Z] [API] GET /fortnite -> 503 | {"duration":"223ms"}
+[2026-07-25T21:13:40.775Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:40.795Z] [API] GET /fortnite -> 503 | {"duration":"241ms"}
+[2026-07-25T21:13:40.796Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:40.806Z] [API] GET /fortnite -> 503 | {"duration":"225ms"}
+[2026-07-25T21:13:40.807Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:40.893Z] [API] GET /fortnite -> 503 | {"duration":"272ms"}
+[2026-07-25T21:13:40.893Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:40.896Z] [API] GET /fortnite -> 503 | {"duration":"240ms"}
+[2026-07-25T21:13:40.897Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:41.024Z] [API] GET /fortnite -> 503 | {"duration":"285ms"}
+[2026-07-25T21:13:41.025Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:41.062Z] [API] GET /fortnite -> 503 | {"duration":"249ms"}
+[2026-07-25T21:13:41.062Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:41.178Z] [API] GET /fortnite -> 503 | {"duration":"301ms"}
+[2026-07-25T21:13:41.178Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:41.259Z] [API] GET /fortnite -> 503 | {"duration":"313ms"}
+[2026-07-25T21:13:41.259Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:41.261Z] [API] GET /fortnite -> 503 | {"duration":"236ms"}
+[2026-07-25T21:13:41.261Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:41.295Z] [API] GET /fortnite -> 503 | {"duration":"247ms"}
+[2026-07-25T21:13:41.295Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:41.332Z] [API] GET /fortnite -> 503 | {"duration":"240ms"}
+[2026-07-25T21:13:41.332Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:41.338Z] [API] GET /fortnite -> 503 | {"duration":"231ms"}
+[2026-07-25T21:13:41.338Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:41.356Z] [API] GET /fortnite -> 503 | {"duration":"218ms"}
+[2026-07-25T21:13:41.357Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:41.401Z] [API] GET /fortnite -> 503 | {"duration":"228ms"}
+[2026-07-25T21:13:41.401Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:41.492Z] [API] GET /fortnite -> 503 | {"duration":"248ms"}
+[2026-07-25T21:13:41.493Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:41.573Z] [API] GET /fortnite -> 503 | {"duration":"268ms"}
+[2026-07-25T21:13:41.573Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:41.581Z] [API] GET /fortnite -> 503 | {"duration":"242ms"}
+[2026-07-25T21:13:41.581Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:41.630Z] [API] GET /fortnite -> 503 | {"duration":"235ms"}
+[2026-07-25T21:13:41.630Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:41.678Z] [API] GET /fortnite -> 503 | {"duration":"214ms"}
+[2026-07-25T21:13:41.678Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:41.680Z] [API] GET /fortnite -> 503 | {"duration":"213ms"}
+[2026-07-25T21:13:41.680Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:41.719Z] [API] GET /fortnite -> 503 | {"duration":"225ms"}
+[2026-07-25T21:13:41.720Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:41.787Z] [API] GET /fortnite -> 503 | {"duration":"217ms"}
+[2026-07-25T21:13:41.787Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:41.789Z] [API] GET /fortnite -> 503 | {"duration":"218ms"}
+[2026-07-25T21:13:41.789Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:41.832Z] [API] GET /fortnite -> 503 | {"duration":"553ms"}
+[2026-07-25T21:13:41.832Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:41.847Z] [API] GET /fortnite -> 503 | {"duration":"219ms"}
+[2026-07-25T21:13:41.847Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:41.913Z] [API] GET /fortnite -> 503 | {"duration":"245ms"}
+[2026-07-25T21:13:41.913Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:41.952Z] [API] GET /fortnite -> 503 | {"duration":"239ms"}
+[2026-07-25T21:13:41.952Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:42.018Z] [API] GET /fortnite -> 503 | {"duration":"258ms"}
+[2026-07-25T21:13:42.018Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:42.020Z] [API] GET /fortnite -> 503 | {"duration":"236ms"}
+[2026-07-25T21:13:42.020Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:42.095Z] [API] GET /fortnite -> 503 | {"duration":"240ms"}
+[2026-07-25T21:13:42.095Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:42.130Z] [API] GET /fortnite -> 503 | {"duration":"222ms"}
+[2026-07-25T21:13:42.131Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:42.137Z] [API] GET /fortnite -> 503 | {"duration":"230ms"}
+[2026-07-25T21:13:42.137Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:42.147Z] [API] GET /fortnite -> 503 | {"duration":"202ms"}
+[2026-07-25T21:13:42.147Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:42.206Z] [API] GET /fortnite -> 503 | {"duration":"201ms"}
+[2026-07-25T21:13:42.207Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:42.214Z] [API] GET /fortnite -> 503 | {"duration":"209ms"}
+[2026-07-25T21:13:42.215Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:42.260Z] [API] GET /fortnite -> 503 | {"duration":"210ms"}
+[2026-07-25T21:13:42.260Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:42.288Z] [API] GET /fortnite -> 503 | {"duration":"196ms"}
+[2026-07-25T21:13:42.288Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:13:42.317Z] [API] GET /fortnite -> 503 | {"duration":"196ms"}
+[2026-07-25T21:13:42.318Z] [ERROR] LZT API request failed: GET /fortnite | {"error":"Error: LZT Market is currently under maintenance. Please try again later."}
+[2026-07-25T21:16:07.345Z] [API] GET /fortnite -> 200 | {"duration":"2735ms"}
+[2026-07-25T21:53:36.635Z] [API] GET /fortnite -> 200 | {"duration":"1232ms"}

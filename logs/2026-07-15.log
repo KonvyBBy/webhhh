@@ -1,0 +1,105 @@
+[2026-07-15T01:05:07.925Z] [API] GET /fortnite -> 200 | {"duration":"2011ms"}
+[2026-07-15T01:45:01.531Z] [API] GET /fortnite -> 200 | {"duration":"1178ms"}
+[2026-07-15T01:45:10.233Z] [API] GET /fortnite -> 200 | {"duration":"1103ms"}
+[2026-07-15T01:45:13.285Z] [API] GET /246011120 -> 200 | {"duration":"259ms"}
+[2026-07-15T01:46:30.313Z] [API] GET /fortnite -> 200 | {"duration":"4ms"}
+[2026-07-15T01:52:05.941Z] [API] GET /fortnite -> 200 | {"duration":"3ms"}
+[2026-07-15T01:53:26.298Z] [API] GET /fortnite -> 200 | {"duration":"1037ms"}
+[2026-07-15T01:54:04.333Z] [API] GET /fortnite -> 200 | {"duration":"4ms"}
+[2026-07-15T02:03:28.236Z] [API] GET /fortnite -> 200 | {"duration":"5ms"}
+[2026-07-15T02:04:41.025Z] [API] GET /fortnite -> 200 | {"duration":"6ms"}
+[2026-07-15T02:10:58.801Z] [API] GET /fortnite -> 200 | {"duration":"1105ms"}
+[2026-07-15T02:11:07.319Z] [API] GET /246695176 -> 200 | {"duration":"513ms"}
+[2026-07-15T02:11:17.909Z] [API] GET /fortnite -> 200 | {"duration":"1063ms"}
+[2026-07-15T02:11:17.959Z] [API] GET /fortnite -> 200 | {"duration":"1067ms"}
+[2026-07-15T02:46:35.088Z] [API] GET /fortnite -> 200 | {"duration":"1274ms"}
+[2026-07-15T02:47:00.154Z] [INFO] User registered: Konvy
+[2026-07-15T02:47:00.217Z] [INFO] User logged in: Konvy
+[2026-07-15T02:51:46.092Z] [API] GET /fortnite -> 200 | {"duration":"992ms"}
+[2026-07-15T02:52:02.468Z] [INFO] User logged in: Konvy
+[2026-07-15T02:54:06.725Z] [INFO] Wallet deposit: user=2 amount=1 | {"note":"Admin adjustment"}
+[2026-07-15T02:54:09.557Z] [API] GET /fortnite -> 200 | {"duration":"1038ms"}
+[2026-07-15T02:54:09.606Z] [API] GET /fortnite -> 200 | {"duration":"1034ms"}
+[2026-07-15T02:54:15.480Z] [INFO] Wallet deposit: user=2 amount=1 | {"note":"Admin adjustment"}
+[2026-07-15T05:09:53.455Z] [API] GET /fortnite -> 200 | {"duration":"1278ms"}
+[2026-07-15T05:10:56.642Z] [API] GET /fortnite -> 200 | {"duration":"1026ms"}
+[2026-07-15T05:11:16.185Z] [API] GET /fortnite -> 200 | {"duration":"1013ms"}
+[2026-07-15T05:11:28.017Z] [API] GET /fortnite -> 200 | {"duration":"1074ms"}
+[2026-07-15T05:11:40.215Z] [API] GET /fortnite -> 200 | {"duration":"1148ms"}
+[2026-07-15T05:11:41.249Z] [API] GET /fortnite -> 200 | {"duration":"1112ms"}
+[2026-07-15T05:11:44.793Z] [API] GET /fortnite -> 200 | {"duration":"6ms"}
+[2026-07-15T05:11:49.257Z] [API] GET /fortnite -> 200 | {"duration":"1215ms"}
+[2026-07-15T05:11:54.638Z] [API] GET /fortnite -> 200 | {"duration":"7ms"}
+[2026-07-15T05:12:08.730Z] [API] GET /246635720 -> 200 | {"duration":"664ms"}
+[2026-07-15T05:12:16.482Z] [API] GET /246635720 -> 200 | {"duration":"627ms"}
+[2026-07-15T05:12:57.264Z] [API] GET /246635720 -> 200 | {"duration":"9ms"}
+[2026-07-15T05:13:16.314Z] [API] GET /246635720 -> 200 | {"duration":"4ms"}
+[2026-07-15T05:14:31.051Z] [API] GET /246635720 -> 200 | {"duration":"757ms"}
+[2026-07-15T05:15:08.936Z] [API] GET /246635720 -> 200 | {"duration":"5ms"}
+[2026-07-15T05:15:14.286Z] [API] GET /246635720 -> 200 | {"duration":"677ms"}
+[2026-07-15T05:15:22.457Z] [API] GET /246635720 -> 200 | {"duration":"732ms"}
+[2026-07-15T05:15:27.613Z] [API] GET /246635720 -> 200 | {"duration":"5ms"}
+[2026-07-15T05:18:35.927Z] [API] GET /246635720 -> 200 | {"duration":"740ms"}
+[2026-07-15T05:18:47.119Z] [API] GET /fortnite -> 200 | {"duration":"1004ms"}
+[2026-07-15T05:18:50.184Z] [API] GET /fortnite -> 200 | {"duration":"923ms"}
+[2026-07-15T05:19:23.877Z] [API] GET /fortnite -> 200 | {"duration":"9ms"}
+[2026-07-15T05:19:30.276Z] [API] GET /fortnite -> 200 | {"duration":"4ms"}
+[2026-07-15T05:19:38.332Z] [API] GET /fortnite -> 200 | {"duration":"3ms"}
+[2026-07-15T05:20:18.177Z] [API] GET /246685208 -> 200 | {"duration":"788ms"}
+[2026-07-15T05:20:54.402Z] [API] GET /246685208 -> 200 | {"duration":"5ms"}
+[2026-07-15T05:21:00.012Z] [API] GET /246685208 -> 200 | {"duration":"7ms"}
+[2026-07-15T05:21:06.302Z] [API] GET /246685208 -> 200 | {"duration":"6ms"}
+[2026-07-15T05:21:11.642Z] [API] GET /246685208 -> 200 | {"duration":"6ms"}
+[2026-07-15T05:41:24.316Z] [API] GET /fortnite -> 200 | {"duration":"1215ms"}
+[2026-07-15T05:41:26.199Z] [API] GET /riot -> 200 | {"duration":"811ms"}
+[2026-07-15T05:46:45.828Z] [API] GET /fortnite -> 200 | {"duration":"1100ms"}
+[2026-07-15T05:47:08.948Z] [API] GET /fortnite -> 200 | {"duration":"3ms"}
+[2026-07-15T05:47:16.067Z] [API] GET /fortnite -> 200 | {"duration":"3ms"}
+[2026-07-15T05:48:58.480Z] [API] GET /fortnite -> 200 | {"duration":"1097ms"}
+[2026-07-15T05:49:06.521Z] [API] GET /246739584 -> 200 | {"duration":"503ms"}
+[2026-07-15T05:49:20.021Z] [API] GET /fortnite -> 200 | {"duration":"1146ms"}
+[2026-07-15T05:49:22.056Z] [API] GET /246752801 -> 200 | {"duration":"427ms"}
+[2026-07-15T05:50:14.446Z] [API] GET /fortnite -> 200 | {"duration":"1234ms"}
+[2026-07-15T05:50:20.721Z] [API] GET /fortnite -> 200 | {"duration":"1046ms"}
+[2026-07-15T05:50:29.435Z] [API] GET /246661856 -> 200 | {"duration":"652ms"}
+[2026-07-15T05:50:55.720Z] [API] GET /246752801 -> 200 | {"duration":"662ms"}
+[2026-07-15T05:51:18.462Z] [API] GET /fortnite -> 200 | {"duration":"6ms"}
+[2026-07-15T05:51:18.519Z] [API] GET /246752801 -> 200 | {"duration":"5ms"}
+[2026-07-15T12:54:39.810Z] [API] GET /246752801 -> 200 | {"duration":"6ms"}
+[2026-07-15T12:54:59.527Z] [API] GET /246752801 -> 200 | {"duration":"6ms"}
+[2026-07-15T12:55:08.912Z] [API] GET /246752801 -> 200 | {"duration":"6ms"}
+[2026-07-15T12:55:17.268Z] [API] GET /246752801 -> 200 | {"duration":"6ms"}
+[2026-07-15T12:55:24.330Z] [API] GET /246752801 -> 200 | {"duration":"7ms"}
+[2026-07-15T12:55:30.030Z] [API] GET /246752801 -> 200 | {"duration":"7ms"}
+[2026-07-15T12:55:43.464Z] [API] GET /246752801 -> 200 | {"duration":"12ms"}
+[2026-07-15T12:55:56.823Z] [API] GET /246752801 -> 200 | {"duration":"7ms"}
+[2026-07-15T12:56:03.144Z] [API] GET /246752801 -> 200 | {"duration":"7ms"}
+[2026-07-15T12:56:15.476Z] [API] GET /246752801 -> 200 | {"duration":"8ms"}
+[2026-07-15T12:56:21.637Z] [API] GET /246752801 -> 200 | {"duration":"7ms"}
+[2026-07-15T12:56:27.889Z] [API] GET /246752801 -> 200 | {"duration":"8ms"}
+[2026-07-15T12:57:44.018Z] [API] GET /246752801 -> 200 | {"duration":"5ms"}
+[2026-07-15T12:57:49.724Z] [API] GET /riot -> 200 | {"duration":"1838ms"}
+[2026-07-15T12:58:03.251Z] [API] GET /246752801 -> 200 | {"duration":"1006ms"}
+[2026-07-15T13:55:57.316Z] [API] GET /fortnite -> 200 | {"duration":"1520ms"}
+[2026-07-15T13:55:57.372Z] [API] GET /fortnite -> 200 | {"duration":"1520ms"}
+[2026-07-15T14:14:10.423Z] [INFO] User registered: Konvyy
+[2026-07-15T14:14:10.485Z] [INFO] User logged in: Konvyy
+[2026-07-15T14:14:12.587Z] [API] GET /fortnite -> 200 | {"duration":"1323ms"}
+[2026-07-15T14:50:45.652Z] [API] GET /fortnite -> 200 | {"duration":"1565ms"}
+[2026-07-15T14:51:15.346Z] [INFO] User registered: test1234
+[2026-07-15T14:51:15.435Z] [INFO] User logged in: test1234
+[2026-07-15T14:51:17.571Z] [API] GET /fortnite -> 200 | {"duration":"1476ms"}
+[2026-07-15T14:51:49.175Z] [API] GET /fortnite -> 200 | {"duration":"1161ms"}
+[2026-07-15T14:53:57.115Z] [API] GET /fortnite -> 200 | {"duration":"4ms"}
+[2026-07-15T14:53:57.252Z] [API] GET /riot -> 200 | {"duration":"3495ms"}
+[2026-07-15T14:53:58.530Z] [API] GET /fortnite -> 200 | {"duration":"1614ms"}
+[2026-07-15T14:54:04.387Z] [API] GET /246818281 -> 200 | {"duration":"790ms"}
+[2026-07-15T14:54:04.472Z] [API] GET /246818281 -> 200 | {"duration":"5ms"}
+[2026-07-15T14:54:04.608Z] [API] GET /246818281 -> 200 | {"duration":"602ms"}
+[2026-07-15T14:54:04.847Z] [API] GET /246818281 -> 200 | {"duration":"742ms"}
+[2026-07-15T14:54:05.025Z] [API] GET /246818281 -> 200 | {"duration":"696ms"}
+[2026-07-15T14:54:35.387Z] [API] GET /246818281 -> 200 | {"duration":"511ms"}
+[2026-07-15T14:54:41.242Z] [API] GET /fortnite -> 200 | {"duration":"1311ms"}
+[2026-07-15T14:59:35.531Z] [API] POST /246818281/fast-buy -> 504 | {"duration":"300142ms"}
+[2026-07-15T14:59:35.531Z] [ERROR] LZT API request failed: POST /246818281/fast-buy | {"error":"Error: LZT API error: HTTP 504"}
+[2026-07-15T14:59:35.532Z] [ERROR] Purchase failed: user=4 item=246818281 | {"error":"Error: LZT API error: HTTP 504"}
